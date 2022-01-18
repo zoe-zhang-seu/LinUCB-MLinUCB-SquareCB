@@ -1,4 +1,5 @@
-This is an implementation of multi-arm bandit model by python. Multi-armed bandits (MABs) are a simple yet powerful framework for sequential decision-making under uncertainty.
+### Introducton
+This is an implementation of multi-arm bandit model by python to compare the performance among LinUCB,MLinUCB,SquareCB. Multi-armed bandits (MABs) are a simple yet powerful framework for sequential decision-making under uncertainty. 
 ### Tasks
 
 1.LinUCB
