@@ -38,4 +38,4 @@ This is an implementation of multi-arm bandit model by python. Multi-armed bandi
 
 - *Dylan Foster and Alexander Rakhlin. ‘Beyond UCB: Optimal and Efficient Contextual Bandits with Regression Oracles.’ In Proceedings of the 37th International Conference on Machine Learning (ICML’2020), pp. 3199-3210, PMLR, 2020.*
 
-- [MLinUCB paper link](http://proceedings.mlr.press/v119/foster20a/foster20a.pdf)
+- [SquareCB paper link](http://proceedings.mlr.press/v119/foster20a/foster20a.pdf)
